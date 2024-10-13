@@ -29,6 +29,5 @@ Upon running the program, you'll be prompted to select a storage method (either 
 
 Feel free to fork this project and contribute!
 
-### Author:
-Hassan (Your Name Here)
+
 
